@@ -12,8 +12,13 @@ Each stage was to be planned and executed on a step-by-step bases because every 
 
 Contributors:
 Talha Enes Ayranci
+
 Hayatu Abdullahi
+
 Omkar Padwal
+
 Ankai Zhang
+
 Jing Shi
+
 Yuzhong Ding
